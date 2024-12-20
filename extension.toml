@@ -1,6 +1,6 @@
 id = "flutter-snippets"
 name = "Flutter Snippets"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Luis De La Cruz <luisdanieldlcg@gmail.com>"]
 description = "A collection of Flutter snippets to improve your development speed."
